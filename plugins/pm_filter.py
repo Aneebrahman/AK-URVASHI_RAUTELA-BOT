@@ -811,7 +811,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('Hᴏᴍᴇ', callback_data='start'),
             InlineKeyboardButton('Sᴛᴀᴛᴜꜱ', callback_data='stats')
             ],[
-            InlineKeyboardButton('Uᴩᴅᴀᴛᴇꜱ', url='https://t.me/movies_channel001')
+            InlineKeyboardButton('Uᴩᴅᴀᴛᴇꜱ', url='https://t.me/+2p4g9JuMTBY1N2M1')
          ]] 
         reply_markup = InlineKeyboardMarkup(buttons)             
         await query.message.edit_text(                     
@@ -892,8 +892,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "updates":
         buttons = [[
-            InlineKeyboardButton('Sᴜᴩᴩᴏʀᴛ Gʀᴏᴜᴩ', url='https://t.me/MLZ_BOTZ_SUPPORT'),
-            InlineKeyboardButton('Bᴏᴛ Uᴩᴅᴀᴛᴇꜱ', url='https://t.me/MLZ_BOTZ')
+            InlineKeyboardButton('Sᴜᴩᴩᴏʀᴛ Gʀᴏᴜᴩ', url='https://t.me/MH_moviesgroup01'),
+            InlineKeyboardButton('Bᴏᴛ Uᴩᴅᴀᴛᴇꜱ', url='https://t.me/+2p4g9JuMTBY1N2M1')
             ],[
             InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='about')
         ]]
@@ -906,9 +906,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "updatesane":
         buttons = [[
             InlineKeyboardButton('Mᴏᴠɪᴇ Uᴩᴅᴀᴛᴇꜱ', url='https://t.me/movies_channel001'),
-            InlineKeyboardButton('Gʀᴏᴜᴩ', url='https://t.me/+X90aS7BxYqI3ZWQ1')
+            InlineKeyboardButton('Gʀᴏᴜᴩ', url='https://t.me/MH_moviesgroup01')
             ],[
-            InlineKeyboardButton('Bᴏᴛ Uᴩᴅᴀᴛᴇꜱ', url='https://t.me/Ak_Links1')
+            InlineKeyboardButton('Bᴏᴛ Uᴩᴅᴀᴛᴇꜱ', url='https://t.me/+2p4g9JuMTBY1N2M1')
             ],[
             InlineKeyboardButton('Bᴀᴄᴋ Tᴏ Sᴛᴀʀᴛ', callback_data='start')
         ]]
