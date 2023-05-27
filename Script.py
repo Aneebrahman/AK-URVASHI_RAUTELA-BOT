@@ -20,9 +20,9 @@ My Nᴀᴍᴇ Iꜱ <a href=https://t.me/{}>{}</a>, I ᴄᴀɴ Pʀᴏᴠɪᴅᴇ 
     
     OWNERANE_TXT = """<b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : 『ƬǤ』×͜×ᴅᴜᴅᴇ𓄀 
-• ᴜꜱᴇʀɴᴀᴍᴇ : @psycho_009 
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href=https://t.me/psycho_009>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
+• ꜰᴜʟʟ ɴᴀᴍᴇ : ×͜× 𝐀𝐊 𝐒𝐞𝐫 𓄀℡ ️️ 
+• ᴜꜱᴇʀɴᴀᴍᴇ : @About_AKSer 
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href=https://t.me/About_AKSer>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
     
     MANUELFILTER_TXT = """Help: <b>Filters</b>
