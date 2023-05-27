@@ -28,4 +28,4 @@ dnspython
 aiohttp
 python-math
 Pillow
-
+speedtest
