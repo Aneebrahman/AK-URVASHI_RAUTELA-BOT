@@ -13,10 +13,6 @@ import aiofiles
 from pyrogram import filters, Client, enums
 from pyrogram.errors import FloodWait, MessageNotModified
 from pyrogram.types import Message
-from youtube_search import YoutubeSearch
-from youtubesearchpython import SearchVideos
-from yt_dlp import YoutubeDL
-import youtube_dl
 import requests
 
 def time_to_seconds(time):
