@@ -43,12 +43,12 @@ class evamaria(Client):
 SESSION = environ.get('SESSION', 'Media_search')
 API_ID = int(environ.get('API_ID', '11643051'))
 API_HASH = environ.get('API_HASH', '7dfe39d9cf2054402e5a6c9a9439a610')
-BOT_TOKEN = environ.get('BOT_TOKEN', '5956859260:AAFbliFh_55Q9iqmDYxqO_iRI3JpNHHw86Q')
+BOT_TOKEN = environ.get('BOT_TOKEN', '6150561741:AAEIkVu9W2oZmqr0W7JvTqm-IHwJcR4UaRM')
 
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', False))
-PICS = (environ.get('PICS', 'https://telegra.ph/file/ad51af5d7b62b176dd4e8.jpg https://telegra.ph/file/337baddb6be47b02ce895.jpg https://telegra.ph/file/78e1de114681234d24c84.jpg https://telegra.ph/file/16aeb75f2aa9f1b4b38ee.jpg')).split()
+PICS = (environ.get('PICS', 'https://telegra.ph/file/10a1cd205ef6c67c3b6b8.jpg https://telegra.ph/file/278d8e76d03c13257d1f2.jpg https://telegra.ph/file/88ca010946e79870c5ed6.jpg https://telegra.ph/file/3fc93ce33076350f1d240.jpg https://telegra.ph/file/94af01bcdc71f380a33e8.jpg https://telegra.ph/file/b78ab648b5eb7c5e42240.jpg')).split()
 NOR_IMG = environ.get('NOR_IMG', "https://graph.org/file/5813021ba24f773df40a8.jpg")
 SPELL_IMG = environ.get('SPELL_IMG',"https://telegra.ph/file/b58f576fed14cd645d2cf.jpg")
 
@@ -75,8 +75,8 @@ TMP_DOWNLOAD_DIRECTORY = environ.get("TMP_DOWNLOAD_DIRECTORY", "./DOWNLOADS/")
 COMMAND_HAND_LER = environ.get("COMMAND_HAND_LER", "/")
 
 # MongoDB information
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://Rexie:Rexie@cluster0.ikahrzi.mongodb.net/?retryWrites=true&w=majority")
-DATABASE_NAME = environ.get('DATABASE_NAME', "cluster0")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://friend:friend@cluster0.w4x0upb.mongodb.net/?retryWrites=true&w=majority")
+DATABASE_NAME = environ.get('DATABASE_NAME', "Aneeb")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 MONGO_URL = os.environ.get('MONGO_URL', "")
 
